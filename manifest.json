@@ -1,0 +1,38 @@
+{
+  "name": "MomBaby",
+  "short_name": "MomBaby",
+  "start_url": "https://www.blogmomandbaby.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog personal yang membahas seputar program hamil, perawatan bayi, tips dan saran.",
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-3RuDG1UpiHg/X_9JvVHnWRI/AAAAAAAAFnw/JkuU_9rRozIZDk5XMmw3thFkYCOcV9i3gCLcBGAsYHQ/s48/fav48x.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-XTCGhBZRNjc/X_9Jvgg2m2I/AAAAAAAAFn0/cFijfT2Iwg4FRJAQllNvw5i32Z4pbwsigCLcBGAsYHQ/s72/fav72x.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-A9wYXhzubrU/X_9Jv016OfI/AAAAAAAAFn8/QxJoSpVv3iMVOhyyrHzfhhF1IyuISdZtACLcBGAsYHQ/s96/fav96x.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-YzhFIcij5QY/X_9JuYmS4gI/AAAAAAAAFnk/1IAjKpM8C0AB2HHcVZjSzIDuHvXr95LVACLcBGAsYHQ/s144/fav144x.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-sg0ExkeKlKE/X_9JuhDmYJI/AAAAAAAAFno/MR1xCS5nBYAwMUE9oVEB3iaYilxcTqkjQCLcBGAsYHQ/s168/fav168x.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-1YwpxyWdgf4/X_9JukCNqGI/AAAAAAAAFns/oPJ6o38PcI0TSG_9Lx61k3KnQnggeFaWwCLcBGAsYHQ/s192/fav192x.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-uM4YWGDSuJY/X_9JvgeUp7I/AAAAAAAAFn4/JWNGMJ_lrtcoFKsYw4DSotfz7icsAjcIACLcBGAsYHQ/s512/fav512x.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
